@@ -1,0 +1,15 @@
+/workspaces/flashClip2023/miniCurso/bin/Debug/net7.0/miniCurso
+/workspaces/flashClip2023/miniCurso/bin/Debug/net7.0/miniCurso.deps.json
+/workspaces/flashClip2023/miniCurso/bin/Debug/net7.0/miniCurso.runtimeconfig.json
+/workspaces/flashClip2023/miniCurso/bin/Debug/net7.0/miniCurso.dll
+/workspaces/flashClip2023/miniCurso/bin/Debug/net7.0/miniCurso.pdb
+/workspaces/flashClip2023/miniCurso/obj/Debug/net7.0/miniCurso.csproj.AssemblyReference.cache
+/workspaces/flashClip2023/miniCurso/obj/Debug/net7.0/miniCurso.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/flashClip2023/miniCurso/obj/Debug/net7.0/miniCurso.AssemblyInfoInputs.cache
+/workspaces/flashClip2023/miniCurso/obj/Debug/net7.0/miniCurso.AssemblyInfo.cs
+/workspaces/flashClip2023/miniCurso/obj/Debug/net7.0/miniCurso.csproj.CoreCompileInputs.cache
+/workspaces/flashClip2023/miniCurso/obj/Debug/net7.0/miniCurso.dll
+/workspaces/flashClip2023/miniCurso/obj/Debug/net7.0/refint/miniCurso.dll
+/workspaces/flashClip2023/miniCurso/obj/Debug/net7.0/miniCurso.pdb
+/workspaces/flashClip2023/miniCurso/obj/Debug/net7.0/miniCurso.genruntimeconfig.cache
+/workspaces/flashClip2023/miniCurso/obj/Debug/net7.0/ref/miniCurso.dll
